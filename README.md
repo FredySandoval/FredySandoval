@@ -3,7 +3,7 @@
 
 <p align="center">
   <a target="_blank" href="https://youtu.be/sr2ndSHVX7w">
-    <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/45242501/255032787-158e76ba-834d-405a-9727-08aa81b60892.png">
+    <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/45242501/255032787-158e76ba-834d-405a-9727-08aa81b60892.png" title="Click to view my portfolio" alt="fredy portfolio">
   </a>
 </p>
 
@@ -23,10 +23,10 @@ Leveraging technology as a force for positive change, I am committed to building
 
 <h3>Blog posts:</h3>
 <ul>
-  <li><a href="https://fredy.dev/blog/2023-06-12-google-oauth-for-dummies/">Google OAuth for dummies</a>.</li>
-  <li><a href="https://fredy.dev/blog/2023-01-14-which-programming-language-is-faster-at-readingmd/">My benchmark of programming languages</a>.</li>
-  <li><a href="https://fredy.dev/blog/2023-06-04-creating-a-checkbox/">My benchmark of programming languages</a>.</li>
-  <li><a href="https://fredy.dev/blog/2022-11-18-my-story-of-how-i-built-my-side-project-microdbs/">My benchmark of programming languages</a>.</li>
+  <li><a href="https://fredy.dev/blog/2023-06-12-google-oauth-for-dummies/">Google OAuth for dummies</a></li>
+  <li><a href="https://fredy.dev/blog/2023-01-14-which-programming-language-is-faster-at-readingmd/">My benchmark of programming languages</a></li>
+  <li><a href="https://fredy.dev/blog/2023-06-04-creating-a-checkbox/">Creating a Checkbox component using the Composition API</a></li>
+  <li><a href="https://fredy.dev/blog/2022-11-18-my-story-of-how-i-built-my-side-project-microdbs/">How I built my side project</a></li>
 </ul>
 
 <br/>
