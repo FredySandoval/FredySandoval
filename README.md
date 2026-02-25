@@ -19,8 +19,10 @@
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
 ## Current Projects
-
+- 🚀 **[LAZYREQUEST](https://lazyrequest.fredy.dev)** - ⬇️ 80 weekly downloads | Lightweight, minimal API Testing Client CLI tool inspired by VS Code REST Client syntax.
 - 🗃️ **[ChatGPT-Backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)** - 👤 350 Active users | Backup your OpenAI ChatGPT history in either JSON or Mardown format
+- 📝 **[A Google Drive API Guide](https://drive.fredy.dev/)** - A Simple, With examples, up-to-date guide. A good way to start with the Google Drive API
+- 🔄 **[HTTP Parser](https://www.npmjs.com/package/@fredy-dev/http-parser)** - A standalone parser for REST client HTTP files, that transforms plain text HTTP requests into structured, machine-readable objects
 
 
 ## Blog Posts | 👁️ 14,995 Total post views
