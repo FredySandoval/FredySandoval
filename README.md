@@ -19,8 +19,10 @@
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
 ## Current Projects
-- 🗃️ **[chatgpt-backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)** - Backup your OpenAI ChatGPT history in either JSON or Mardown format `👤 +500 Active users`
-- 📝 **[a google drive api guide](https://drive.fredy.dev/)** - A Simple, With examples, up-to-date guide. A good way to start with the Google Drive API
+
+- 🔌 **[pi-browser-template](https://github.com/FredySandoval/pi-browser-template)** - Production-grade template for Pi-powered Chrome extensions `⭐ 51`
+- 🗃️ **[chatgpt-backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)** - Backup your OpenAI ChatGPT history in either JSON or Mardown format `👤 +500 Active users` [`⭐ 12`](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)
+- 📝 **[a google drive api guide](https://drive.fredy.dev/)** - A Simple, With examples, up-to-date guide. A good way to start with the Google Drive API. [`⭐ 4`](https://github.com/FredySandoval/google-drive-api-usage-examples)
 - 🔄 **[http parser](https://www.npmjs.com/package/@fredy-dev/http-parser)** - A standalone parser for REST client HTTP files, that transforms plain text HTTP requests into structured, machine-readable objects
 - 🚀 **[lazyrequest](https://lazyrequest.fredy.dev)** - Lightweight, minimal API Testing Client CLI tool inspired by VS Code REST Client syntax.
 
