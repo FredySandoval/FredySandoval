@@ -4,6 +4,9 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
@@ -18,9 +21,12 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
+## [Pi](https://pi.dev/) Extensions &nbsp; [![packages](https://img.shields.io/badge/pi.dev-packages-8B5CF6?style=flat-square)](https://pi.dev/packages)
+- 🔌 **[pi-browser-template](https://github.com/FredySandoval/pi-browser-template)** - Production-grade template for Pi-powered Chrome extensions `⭐ 51`
+- 🤖 **[pi-logo](https://github.com/FredySandoval/pi-logo)** - A Pi extension to show a new Pi logo every time you open Pi. `⭐ 5`
+
 ## Current Projects
 
-- 🔌 **[pi-browser-template](https://github.com/FredySandoval/pi-browser-template)** - Production-grade template for Pi-powered Chrome extensions `⭐ 51`
 - 🗃️ **[chatgpt-backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)** - Backup your OpenAI ChatGPT history in either JSON or Mardown format `👤 +500 Active users` [`⭐ 12`](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)
 - 📝 **[a google drive api guide](https://drive.fredy.dev/)** - A Simple, With examples, up-to-date guide. A good way to start with the Google Drive API. [`⭐ 4`](https://github.com/FredySandoval/google-drive-api-usage-examples)
 - 🔄 **[http parser](https://www.npmjs.com/package/@fredy-dev/http-parser)** - A standalone parser for REST client HTTP files, that transforms plain text HTTP requests into structured, machine-readable objects
