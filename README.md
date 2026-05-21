@@ -23,11 +23,12 @@
 
 ## [Pi](https://pi.dev/) Extensions &nbsp; [![packages](https://img.shields.io/badge/pi.dev-packages-8B5CF6?style=flat-square)](https://pi.dev/packages)
 - 🔌 **[pi-browser-template](https://github.com/FredySandoval/pi-browser-template)** - Production-grade template for Pi-powered Chrome extensions `⭐ 51`
+- 📋 **[showsignature](https://github.com/FredySandoval/showsignature)** - a cli utility to show only code signatures. `⭐ 25`
 - 🤖 **[pi-logo](https://github.com/FredySandoval/pi-logo)** - A Pi extension to show a new Pi logo every time you open Pi. `⭐ 5`
 
 ## Current Projects
 
-- 🗃️ **[chatgpt-backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)** - Backup your OpenAI ChatGPT history in either JSON or Mardown format `👤 +500 Active users` [`⭐ 12`](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)
+- 🗃️ **[chatgpt-backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)** - Backup your OpenAI ChatGPT history in either JSON or Mardown format `👤 +550 Active users` [`⭐ 12`](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)
 - 📝 **[a google drive api guide](https://drive.fredy.dev/)** - A Simple, With examples, up-to-date guide. A good way to start with the Google Drive API. [`⭐ 4`](https://github.com/FredySandoval/google-drive-api-usage-examples)
 - 🔄 **[http parser](https://www.npmjs.com/package/@fredy-dev/http-parser)** - A standalone parser for REST client HTTP files, that transforms plain text HTTP requests into structured, machine-readable objects
 - 🚀 **[lazyrequest](https://lazyrequest.fredy.dev)** - Lightweight, minimal API Testing Client CLI tool inspired by VS Code REST Client syntax.
