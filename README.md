@@ -1,6 +1,58 @@
 # Hi, I'm Fredy 👋
+Listening to ▲ Pink Floyd while coding... 
+
+---
 
 
+## [Pi](https://pi.dev/) Extensions
+
+- **[pi-browser-template](https://github.com/FredySandoval/pi-browser-template)**  ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/pi-browser-template?logo=github&label=%E2%AD%90%20Stars)
+  
+   Production-grade template for Pi-powered Chrome extensions.
+
+- **[showsignature](https://github.com/FredySandoval/showsignature)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/showsignature?logo=github&label=%E2%AD%90%20Stars)
+
+    A cli utility to show only code signatures.
+ 
+- **[pi-runcat](https://github.com/FredySandoval/pi-runcat)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/pi-runcat?logo=github&label=%E2%AD%90%20Stars)
+
+  Yet another useless running cat here...
+    
+- **[pi-logo](https://github.com/FredySandoval/pi-logo)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/pi-logo?logo=github&label=%E2%AD%90%20Stars)
+
+  A Pi extension to show a new Pi logo every time you open Pi. 
+
+## Current Projects
+
+- 🗃️ **[chatgpt-backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)**  ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/ChatGPT-CHROME_EXTENSION?logo=github&label=%E2%AD%90%20Stars)
+
+  Backup your OpenAI ChatGPT history in JSON or Mardown `👤 +570 Active users`
+    
+- 📝 **[a google drive api guide](https://drive.fredy.dev/)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/google-drive-api-usage-examples?logo=github&label=%E2%AD%90%20Stars)
+
+  A good guide to start with the Google Drive API.
+  
+- 🔄 **[http parser](https://www.npmjs.com/package/@fredy-dev/http-parser)**
+
+  A standalone parser for REST client HTTP files.
+
+- 🚀 **[lazyrequest](https://lazyrequest.fredy.dev)**
+
+  Lightweight, minimal API Testing Client CLI tool inspired by VS Code REST Client syntax.
+
+## Blog Posts | 👁️ 15,000 Total post views
+
+<!-- BLOG-POST-LIST:START -->
+- [The Google Drive API for the very, very beginner](https://dev.to/fredysandoval/the-google-drive-api-for-the-very-very-beginner-4ii9)
+- [I'll teach you 7 Array methods. (with animations!)](https://dev.to/fredysandoval/ill-teach-you-7-array-methods-with-animations-549c)
+- [Which Programming language is faster at reading?](https://dev.to/fredysandoval/which-programming-language-is-faster-at-reading-10gn)
+- [Explaining the video "Enums Considered Harmful" of Matt Pocock](https://dev.to/fredysandoval/explaining-the-video-enums-considered-harmful-of-matt-pocock-2a20)
+- [Google OAuth2 for Dummies](https://dev.to/fredysandoval/google-oauth2-for-dummies-4bl1)
+- [Creating a Checkbox component using the Composition API](https://fredy.dev/blog/2023-06-04-creating-a-checkbox)
+- [How I built my side project](https://fredy.dev/blog/2022-11-18-my-story-of-how-i-built-my-side-project-microdbs)
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -20,30 +72,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-
-## [Pi](https://pi.dev/) Extensions &nbsp; [![packages](https://img.shields.io/badge/pi.dev-packages-8B5CF6?style=flat-square)](https://pi.dev/packages)
-- 🔌 **[pi-browser-template](https://github.com/FredySandoval/pi-browser-template)** - Production-grade template for Pi-powered Chrome extensions `⭐ 51`
-- 📋 **[showsignature](https://github.com/FredySandoval/showsignature)** - a cli utility to show only code signatures. `⭐ 25`
-- 🤖 **[pi-logo](https://github.com/FredySandoval/pi-logo)** - A Pi extension to show a new Pi logo every time you open Pi. `⭐ 5`
-
-## Current Projects
-
-- 🗃️ **[chatgpt-backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)** - Backup your OpenAI ChatGPT history in JSON or Mardown `👤 +550 Active users` [`⭐ 12`](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)
-- 📝 **[a google drive api guide](https://drive.fredy.dev/)** - A good guide to start with the Google Drive API. [`⭐ 4`](https://github.com/FredySandoval/google-drive-api-usage-examples)
-- 🔄 **[http parser](https://www.npmjs.com/package/@fredy-dev/http-parser)** - A standalone parser for REST client HTTP files.
-- 🚀 **[lazyrequest](https://lazyrequest.fredy.dev)** - Lightweight, minimal API Testing Client CLI tool inspired by VS Code REST Client syntax.
-
-## Blog Posts | 👁️ 15,000 Total post views
-
-<!-- BLOG-POST-LIST:START -->
-- [The Google Drive API for the very, very beginner](https://dev.to/fredysandoval/the-google-drive-api-for-the-very-very-beginner-4ii9)
-- [I'll teach you 7 Array methods. (with animations!)](https://dev.to/fredysandoval/ill-teach-you-7-array-methods-with-animations-549c)
-- [Which Programming language is faster at reading?](https://dev.to/fredysandoval/which-programming-language-is-faster-at-reading-10gn)
-- [Explaining the video "Enums Considered Harmful" of Matt Pocock](https://dev.to/fredysandoval/explaining-the-video-enums-considered-harmful-of-matt-pocock-2a20)
-- [Google OAuth2 for Dummies](https://dev.to/fredysandoval/google-oauth2-for-dummies-4bl1)
-- [Creating a Checkbox component using the Composition API](https://fredy.dev/blog/2023-06-04-creating-a-checkbox)
-- [How I built my side project](https://fredy.dev/blog/2022-11-18-my-story-of-how-i-built-my-side-project-microdbs)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
