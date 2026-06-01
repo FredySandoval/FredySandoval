@@ -10,7 +10,7 @@ Listening to ▲ Pink Floyd while coding...
   
    Production-grade template for Pi-powered Chrome extensions.
 
-- **[showsignature](https://github.com/FredySandoval/showsignature)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/showsignature?logo=github&label=%E2%AD%90%20Stars)
+- **[showsignature](https://github.com/FredySandoval/showsignature)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/showsignature?logo=github)
 
     A cli utility to show only code signatures.
  
