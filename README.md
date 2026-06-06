@@ -26,7 +26,7 @@ Listening to ▲ Pink Floyd while coding...
 
 - 🗃️ **[chatgpt-backup](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)**  ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/ChatGPT-CHROME_EXTENSION?logo=github&label=%E2%AD%90%20Stars)
 
-  Backup your OpenAI ChatGPT history in JSON or Mardown `👤 +570 Active users` ![Chrome Link](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)
+  Backup your OpenAI ChatGPT history in JSON or Mardown `👤 +650 Active users` [ChatGPT Backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)
     
 - 📝 **[a google drive api guide](https://drive.fredy.dev/)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/google-drive-api-usage-examples?logo=github&label=%E2%AD%90%20Stars)
 
