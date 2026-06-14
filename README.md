@@ -6,25 +6,26 @@ Listening to ▲ Pink Floyd while coding...
 
 ## [Pi](https://pi.dev/) Extensions
 
-- **[pi-browser-template](https://github.com/FredySandoval/pi-browser-template)**  ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/pi-browser-template?logo=github&label=%E2%AD%90%20Stars)
+- **[pi-browser-template](https://github.com/FredySandoval/pi-browser-template)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/pi-browser-template?logo=github&label=%E2%AD%90%20Stars)
   
    Production-grade template for Pi-powered Chrome extensions.
 
-- **[showsignature](https://github.com/FredySandoval/showsignature)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/showsignature?label=%E2%AD%90%20Stars)
+- **[showsignature](https://github.com/FredySandoval/showsignature)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/showsignature?label=%E2%AD%90%20Stars)
 
     A cli utility to show only code signatures.
  
-- **[pi-runcat](https://github.com/FredySandoval/pi-runcat)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/pi-runcat?logo=github&label=%E2%AD%90%20Stars)
+- **[pi-runcat](https://github.com/FredySandoval/pi-runcat)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/pi-runcat?logo=github&label=%E2%AD%90%20Stars)
 
   Yet another useless running cat here...
     
-- **[pi-logo](https://github.com/FredySandoval/pi-logo)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/pi-logo?logo=github&label=%E2%AD%90%20Stars)
+- **[pi-logo](https://github.com/FredySandoval/pi-logo)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/pi-logo?logo=github&label=%E2%AD%90%20Stars)
 
   A Pi extension to show a new Pi logo every time you open Pi. 
 
 ## Current Projects
 
-- 🗃️ **[chatgpt-backup](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)**  ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/ChatGPT-CHROME_EXTENSION?logo=github&label=%E2%AD%90%20Stars)
+- 🗃️ **[chatgpt-backup](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/ChatGPT-CHROME_EXTENSION?logo=github&label=%E2%AD%90%20Stars)
 
   Backup your OpenAI ChatGPT history in JSON or Mardown `👤 +650 Active users` [ChatGPT Backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)
     
