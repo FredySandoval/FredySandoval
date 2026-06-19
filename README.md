@@ -1,6 +1,10 @@
 # Hi, I'm Fredy 👋
-Listening to ▲ Pink Floyd while coding... 
+Always interested in connecting with contributors and maintainers, experimenting with new ideas, and building unusually useful things.
 
+Also interested in contributing to other people’s open-source projects.
+```sh
+Listening to ▲ Pink Floyd while coding... 
+```
 ---
 
 
