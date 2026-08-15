@@ -27,13 +27,17 @@ Also interested in contributing to other people’s open-source projects.
 
 ## Current Projects
 
+- **[Dolvim](https://github.com/FredySandoval/Dolvim)** ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+ 
+  KDE Dolphin, recreated in the terminal, with vim bindings, written in rust btw.
+
 - **[FTools](https://github.com/FredySandoval/ftools)** ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 
   Command-line file clipboard tools for copying, cutting, pasting, deleting, replacing, undoing, and redoing file operations with a JSON Lines history.
 
 - **[chatgpt-backup](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/ChatGPT-CHROME_EXTENSION?logo=github&label=%E2%AD%90%20Stars)
 
-  Backup your OpenAI ChatGPT history in JSON or Mardown `👤 +650 Active users` [ChatGPT Backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)
+  Backup your OpenAI ChatGPT history in JSON or Mardown `👤 +800 Active users` [ChatGPT Backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)
     
 - **[a google drive api guide](https://drive.fredy.dev/)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/google-drive-api-usage-examples?logo=github&label=%E2%AD%90%20Stars)
 
