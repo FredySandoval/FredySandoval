@@ -37,7 +37,7 @@ Also interested in contributing to other people’s open-source projects.
 
 - **[chatgpt-backup](https://github.com/FredySandoval/ChatGPT-CHROME_EXTENSION)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/ChatGPT-CHROME_EXTENSION?logo=github&label=%E2%AD%90%20Stars)
 
-  Backup your OpenAI ChatGPT history in JSON or Mardown `👤 +800 Active users` [ChatGPT Backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)
+  Backup your OpenAI ChatGPT history in JSON or Mardown `👤 +1000 Active users` [ChatGPT Backup](https://chromewebstore.google.com/detail/chatgpt-backup/majboohgjfdnegkhadaialohhlimolcc)
     
 - **[a google drive api guide](https://drive.fredy.dev/)** ![GitHub Repo stars](https://img.shields.io/github/stars/FredySandoval/google-drive-api-usage-examples?logo=github&label=%E2%AD%90%20Stars)
 
