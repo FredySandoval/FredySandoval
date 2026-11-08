@@ -31,6 +31,11 @@ Also interested in contributing to other people’s open-source projects.
  
   KDE Dolphin, recreated in the terminal, with vim bindings, written in rust btw.
 
+  
+- **[sho-rt](https://github.com/FredySandoval/sho-rt)** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
+
+  A minimal, single-binary Go link shortener with a keyboard-first dashboard, SQLite storage, and a native background service.
+
 - **[FTools](https://github.com/FredySandoval/ftools)** ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 
   Command-line file clipboard tools for copying, cutting, pasting, deleting, replacing, undoing, and redoing file operations with a JSON Lines history.
